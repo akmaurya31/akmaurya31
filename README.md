@@ -29,7 +29,7 @@
  
 <h2 align="left">Who am I <img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="27px" width="25px"></h2>
 
-- 💻 Currently working as a Full Stack Developer and CTO at LoopTechnosoft
+- 💻 Currently working as a CTO (Full Stack Developer) at LoopTecnosoft
 - 👨‍💻 All of my projects are available at [akmaurya31.github.io](https://akmaurya31.github.io/)
 - 💬 Ask me about **JS, NODE, Reactjs, ISKCON**
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/avinashnode/)

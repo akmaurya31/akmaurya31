@@ -38,6 +38,25 @@
 - 🌱 Currently learning Node.js and React
 - 📧 Reach me anytime: console.avinash@gmail.com
 
+<h2 align="center">Let's Connect <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"></h2>
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/avinash31/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="[https://www.instagram.com/avinash31/](https://www.upwork.com/workwith/avinash31)">
+        <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white">
+    </a>
+    <a href="https://github.com/avinash31/">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    </a>
+    <a href="mailto:console.avinash@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    <a href="https://www.instagram.com/avinash31/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+</div>
 
   
    

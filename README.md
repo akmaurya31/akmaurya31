@@ -27,15 +27,17 @@
 
 <img align="right" width="350" src="/programmer.gif" alt="Coding gif" />
  
-<h2 align="left">Who am I<img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="27px" width="25px"></h2>
-💻 I am currently working as a  Full Stack Developer and CTO in LoopTechnosoft (akmaurya31@gmail.com)(<br/>
-👨‍💻 All of my projects are available at [akmaurya31.github.io](https://akmaurya31.github.io/)<br/>
-💬 Ask me about **JS, NODE, Reactjs, ISKCON**<br/>
-📄 Know about my experiences [https://www.linkedin.com/in/avinashnode/](https://www.linkedin.com/in/avinashnode/)<br/>
-✌️ &emsp; Enjoy to do programming and sharing knowledge <br/>
-❤️ &emsp; Love to solving problems and learning new technology <br/>
-🌱 &emsp; I’m currently learning Node.js and React <br/>
-📧 &emsp; Reach me anytime: console.avinash@gmail.com<br/>
+<h2 align="left">Who am I <img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="27px" width="25px"></h2>
+
+- 💻 Currently working as a Full Stack Developer and CTO at LoopTechnosoft
+- 👨‍💻 All of my projects are available at [akmaurya31.github.io](https://akmaurya31.github.io/)
+- 💬 Ask me about **JS, NODE, Reactjs, ISKCON**
+- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/avinashnode/)
+- ✌️ Enjoy programming and sharing knowledge
+- ❤️ Love solving problems and learning new technologies
+- 🌱 Currently learning Node.js and React
+- 📧 Reach me anytime: console.avinash@gmail.com
+
 
   
    
